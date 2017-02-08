@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+  <title>Sharmatha Devarajan</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://www.laurapollakartist.com/Paintings/Falling_Colors_14.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    img {
+      size: 20px;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://acceleratedprep.files.wordpress.com/2012/09/nice-smile.jpg">
+  <p>Hi! I'm Sharmatha, a student of the world. </p> 
+  <p>Please tell me your favorite vacation spot</p>
+  <input type="location" placeholder="Favorite Location">
+  <input type="submit">
+</body>
